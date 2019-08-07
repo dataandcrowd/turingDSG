@@ -123,8 +123,6 @@ nox.month <- nox.tib %>%
 nox.month$mean_nox[is.nan(nox.month$mean_nox) == T] <- NA
 nox.month <- na.omit(nox.month)
 
-##################################
-
 nox.month %>%
   ggplot(aes(x = hour, y = mean_nox, group = hour, fill = Location)) +
   geom_boxplot() +
