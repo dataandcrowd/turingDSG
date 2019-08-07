@@ -1,0 +1,23 @@
+---
+title: "Air Pollution"
+author: "Hyesop"
+date: '2019 8 7 '
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Approach 1: Exploring the structrue of air quality data for Bristol
+## Theory
+- There are ample evidence of negative relationships between NO<sub>x</sub> and children's risk of health e.g. asthma, headache, obstacles of growth.
+- Some schoolzones in Bristol are now facing a serious risk of pollution due to the high volume of vehicles that park and travel during rush hours, which can badly affect their health.
+- Here, this section explores the temporal features of NO<sub>x</sub> and examine the relationship on schoolzones.
+
+## Data collection
+
+- Bristol city council has released a diverse range of dataset on their [Bristol Opendata Webpage](https://opendata.bristol.gov.uk/pages/homepage/). 
+- We collected air quality continous data (1998-2019).
+
+
