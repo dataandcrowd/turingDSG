@@ -26,6 +26,7 @@ At present, the city has 7 Stations (location with bold text) that monitors NO<s
     
 
 [Table 1. General information of pollution monitoring sites in Bristol. The seven stations (with bolded text) are the  currently measuring pollution data]
+
 | Location                             | Long     | Lat      | Date_Start | Date_End   | Total period (for terminated stations) |
 |:-------------------------------------|---------:|---------:|:-----------|:-----------|:------------------|
 | AQ Mesh Temple Way                   | -2.56208 | 51.47528 | 2019-01-01 | 2019-04-23 | approx. 3 months  |
@@ -71,6 +72,7 @@ Comapred to the number of pollution sites, there is only one meteorological moni
 ![](https://i.imgur.com/HT9iFoe.png)
 
 [Table 2. Mean NO<sub>2</sub> and counts of exceedance of 200µg/m<sup>3</sup> by each station]
+
 | Station Name        | Mean NO<sub>2</sub> | Number of Exceedance |
 |:---------------------|----------:|------------:|
 | Trailer Portway P&R  | 24.4     | 43,824      |
